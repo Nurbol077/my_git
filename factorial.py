@@ -4,3 +4,4 @@ def func(n):
         total *= i
     return total
 
+print(func(5))
